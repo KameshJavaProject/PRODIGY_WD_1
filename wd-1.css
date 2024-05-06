@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+div {
+    display: flex;
+    justify-content: center; 
+    background-color: darkcyan; 
+  }
+h1 {
+    margin: 25px; 
+    color:black;
+  }
+.one:hover {
+    color:white;
+}
+.two:hover {
+    color:yellow;
+}
+.three:hover {
+    color:red;
+}
+.four:hover {
+    color:green;
+}
+.five:hover {
+    color: blue;
+}
